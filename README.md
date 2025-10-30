@@ -25,13 +25,26 @@ Each of my Fontys projects has been separated into a (public) organization as to
 
 Ah my first project ever at Fontys ICT. We worked on a sustainability, we tried to achieve this by focussing on [SDGs](https://sdgs.un.org/goals), which are essentially 17 goals for the most optimal, sustainable future of humankind.
 
-- [Repository](https://github.com/theartcher/Trash4Cash)
+\> [Repository](https://github.com/theartcher/Trash4Cash)
+
+_Technologies used;_
+
+- React Native (JavaScript) frontend
+- Express & Sequelize (JavaScript) backend
+- MySQL database
 
 ### S3 - SpottedCharts
 
 Semester 3 was my first real experience with Docker, writing actual documentation and CI/CD via GitHub Actions. The application involved reading some user data from Spotify, authenticated through an OAuth system. The user could request their latest artists, songs, and genres. These were then stored and this allowed the user to plot changes over time using our app.
 
-- [Repository](https://github.com/S3-Software-IP/monorepo)
+\> [Repository](https://github.com/S3-Software-IP/monorepo)
+
+_Technologies used;_
+
+- Next.Js frontend
+  - Jest for tests
+- ASP.NET Core Web API backend
+- MySQL database
 
 ### S4 - Smart Mobile
 
@@ -43,7 +56,12 @@ Smart mobile was divided into 2 very separate tracks, a duo project and a group 
 
 For the group project, [we won a 1500 euro price for 'Best Concept Smart Mobile'](https://www.linkedin.com/posts/joris-brugman-1186131b9_dear-network-i-am-extremely-proud-to-announce-activity-7231270908823310336-LWme?utm_source=share&utm_medium=member_desktop&rcm=ACoAADLQfeQB00PkaEW2bi0fsZjwH-H8SqR0iFE) regarding the topic 'Sensory Overload', also known as overstimulation. During this project I worked with talented designers and software engineers alike to create a mobile VR experience. We recorded our own 360 degree camera footage, which we then implemented into our own hand-made cardboard VR headsets. The app helped individuals suffering from sensory overload to give a look into their life to their loved ones. A user can select an experience, the 'overloadness' they want to experience and then just jump right in. With various sounds and sights we try to actively overstimulate a person' perception. We showcased this to one of our stakeholders, an older man who, due to major brain trauma suffers from regular, excessive overstimulation. With our product we were able to help him explain to his grandchildren better why he sometimes could not interact with them, without being sounding harsh or distant.
 
-- [Repository](https://github.com/StudioKrom-SmartMobile-2024/frontend)
+\> [Repository](https://github.com/StudioKrom-SmartMobile-2024/frontend)
+
+_Technologies used;_
+
+- Flutter
+- MQTT
 
 ### S5 - Internship
 
@@ -53,7 +71,16 @@ During my internship I did exploratory research into large-scale data orchestrat
 
 For this they needed an updated methodology to be able to handle large scale SQL-based traffic on their various complex database systems. I looked into Dagster, Apache Airflow, Prefect and DBT. Creating a large, comprehensive guide on their technical capacities with demos to prove it's business worth and stake my case.
 
-- [LinkedIn post](https://www.linkedin.com/posts/joris-brugman-1186131b9_dear-network-id-like-to-take-a-moment-activity-7288888721712513024-Xoh3?utm_source=share&utm_medium=member_desktop&rcm=ACoAADLQfeQB00PkaEW2bi0fsZjwH-H8SqR0iFE)
+\> [LinkedIn post](https://www.linkedin.com/posts/joris-brugman-1186131b9_dear-network-id-like-to-take-a-moment-activity-7288888721712513024-Xoh3?utm_source=share&utm_medium=member_desktop&rcm=ACoAADLQfeQB00PkaEW2bi0fsZjwH-H8SqR0iFE)
+
+_Technologies used;_
+
+- Dagster
+- Prefect
+- Apache Airflow
+- DBT
+- SQL
+- Python
 
 ### S6 - Advanced Software
 
@@ -66,9 +93,24 @@ In my 6th semester I focussed on creating a complex, distributed software archit
 - [Gateway](https://github.com/S6-AdvancedSoftware-Individual/cockatoo-gateway)
 - [Infrastructure & load test](https://github.com/S6-AdvancedSoftware-Individual/cockatoo-infrastructure)
 
+_Technologies used;_
+
+- Azure (Functions, Kubernetes Service & Postgres Database hosting)
+- Kubernetes
+- Docker
+- ASP.NET Core Web APIs
+- K6
+- Vue.js
+- Ocelot gateways
+
 For the group project, I worked on an algorithm which allows a user to charge their electric vehicles in a smart, sustainable manner. The project allowed for electricity trading, complex charging schedules for both commercial as well as personal vehicular management. In order to make this all work we had to integrate various external APis such as SolarEdge, Frank Energie, TOMP, WallBox and so forth. The complex nature of data ingesting and poorly documented web APIs proved a difficult challenge to tackle.
 
 Sadly there is no repository available for this project due to contractual obligations.
+
+_Technologies used;_
+
+- Python
+- GraphQL
 
 ### S7 - DesignPatternPedia
 
@@ -77,6 +119,11 @@ In my current semester, my 7th, I have been working on learning more, in depth a
 - [Production environment](https://s7-openlearning-individual.github.io/DesignPatternPedia/)
 - [GitHub Organization](https://github.com/orgs/S7-OpenLearning-Individual/repositories)
 - [Wiki Repository](https://github.com/S7-OpenLearning-Individual/DesignPatternPedia)
+
+_Technologies used;_
+
+- Docusaurus (framework)
+- React
 
 ## Hobby projects
 
@@ -105,6 +152,10 @@ This has been put on the back burner due to some priorities with my work, search
 - [Repository](https://github.com/theartcher/freazy)
 - [Wiki on Notion](https://pastoral-almond-4c5.notion.site/Freazy-225b5f8e336c80749c51e10b660d5af5)
 
+_Technologies used;_
+
+- Flutter
+
 ### ConnectMi
 
 The ConnectMi mobile app went through various iterations in it's short life-span. I started on this project to create an alternative to the [esp8266_milight_hub](https://github.com/sidoh/esp8266_milight_hub) web interface, as it [looked quite bad](https://user-images.githubusercontent.com/589893/61682228-a8151700-acc5-11e9-8b86-1e21efa6cdbe.png) prior to it's 1.13.0 release. This project mainly focussed on
@@ -120,19 +171,29 @@ This project was put on the back burner for three reasons;
 
 It was a very fun and interesting experience designing something for a mobile application though.
 
-- [Repository](https://github.com/theartcher/ConnectMi)
+\> [Repository](https://github.com/theartcher/ConnectMi)
+
+_Technologies used;_
+
+- Figma
+- Flutter
 
 ### FriendsINC.js
 
 My absolute first project I ever put on GitHub, it was my introduction to JavaScript, git, web APIs and, programming in general. There was absolutely plenty of room for improvement, but it was such a fun project to create at the time. To be able to sit behind my desk, type something and then make it WORK was fantastic and incredibly rewarding. I hosted it on a server via Cubes.host which had a Postgres server included in the plan. Although small I learnt a lot.
 
-- [Repository](https://github.com/theartcher/Friends.INC/blob/main/FriendsINC.js)
+\> [Repository](https://github.com/theartcher/Friends.INC/blob/main/FriendsINC.js)
+
+_Technologies used;_
+
+- JavaScript
+- Discord Web API
 
 ### Helldivers 2 theme on the N3DS
 
 Although not a very technical project, it is a fun one regardless. It is comically well documented for how small the project actually is. I had (hadn't\* in case Nintendo is reading this) hacked my 3DS to play some old, nostalgic games on it again, and I wanted a nice theme on it. I got into Helldivers 2 semi-recently and was instantly hooked, thus I wanted to make my own theme for it.
 
-- [Repository](https://github.com/theartcher/hd2-3ds-theme)
+\> [Repository](https://github.com/theartcher/hd2-3ds-theme)
 
 ## Get in touch
 
