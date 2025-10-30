@@ -50,9 +50,9 @@ _Technologies used;_
 
 Smart mobile was divided into 2 very separate tracks, a duo project and a group project. The duo project focused on creating 2 apps, both in Flutter. Both focussed primarily on the UX/UI part, since my group mate and I had already 'mastered' the technical side of things. More details regarding these two projects you can find in their respective repositories.
 
-- [Duo cases repository README](https://github.com/S4-Smart-mobile/S4-Smart-Mobile?tab=readme-ov-file)
-- ['Cultural Exchange' case](https://github.com/S4-Smart-mobile/S4-Smart-Mobile/tree/main/Cultural%20Exchange%20App)
-- ['Mood predictor' case](https://github.com/S4-Smart-mobile/S4-Smart-Mobile/tree/main/mood_predictor_app)
+\> [Duo cases repository README](https://github.com/S4-Smart-mobile/S4-Smart-Mobile?tab=readme-ov-file) </br>
+\> ['Cultural Exchange' case](https://github.com/S4-Smart-mobile/S4-Smart-Mobile/tree/main/Cultural%20Exchange%20App) </br>
+\> ['Mood predictor' case](https://github.com/S4-Smart-mobile/S4-Smart-Mobile/tree/main/mood_predictor_app)
 
 For the group project, [we won a 1500 euro price for 'Best Concept Smart Mobile'](https://www.linkedin.com/posts/joris-brugman-1186131b9_dear-network-i-am-extremely-proud-to-announce-activity-7231270908823310336-LWme?utm_source=share&utm_medium=member_desktop&rcm=ACoAADLQfeQB00PkaEW2bi0fsZjwH-H8SqR0iFE) regarding the topic 'Sensory Overload', also known as overstimulation. During this project I worked with talented designers and software engineers alike to create a mobile VR experience. We recorded our own 360 degree camera footage, which we then implemented into our own hand-made cardboard VR headsets. The app helped individuals suffering from sensory overload to give a look into their life to their loved ones. A user can select an experience, the 'overloadness' they want to experience and then just jump right in. With various sounds and sights we try to actively overstimulate a person' perception. We showcased this to one of our stakeholders, an older man who, due to major brain trauma suffers from regular, excessive overstimulation. With our product we were able to help him explain to his grandchildren better why he sometimes could not interact with them, without being sounding harsh or distant.
 
@@ -88,12 +88,12 @@ _Technologies used;_
 
 In my 6th semester I focussed on creating a complex, distributed software architectural system. I created 'Cockatoo', a Twitter/X clone. This offered me the opportunity to go into more technical topics such as creating a distributed system using various tooling. I started off with Docker, moved to Minikube, which then continued onward to Azure Kubernetes Services. In Azure I worked in registering my own application properly. This included creating a message bus, working with Azure Functions and getting all of that working in a full CI/CD using Github Actions. Code quality was validated using K6 for load tests, SonarCloud for static code analysis and Git Guardian for any outstanding Git related security issues. The distributed system is seperated into 5 repositories.
 
-- [Semester organization](https://github.com/orgs/S6-AdvancedSoftware-Individual/repositories)
-- [Posts service](https://github.com/S6-AdvancedSoftware-Individual/post-service)
-- [Frontend](https://github.com/S6-AdvancedSoftware-Individual/cockatoo-frontend)
-- [Accounts service](https://github.com/S6-AdvancedSoftware-Individual/accounts-service)
-- [Gateway](https://github.com/S6-AdvancedSoftware-Individual/cockatoo-gateway)
-- [Infrastructure & load test](https://github.com/S6-AdvancedSoftware-Individual/cockatoo-infrastructure)
+\> [Semester organization](https://github.com/orgs/S6-AdvancedSoftware-Individual/repositories) </br>
+\> [Posts service](https://github.com/S6-AdvancedSoftware-Individual/post-service) </br>
+\> [Frontend](https://github.com/S6-AdvancedSoftware-Individual/cockatoo-frontend) </br>
+\> [Accounts service](https://github.com/S6-AdvancedSoftware-Individual/accounts-service) </br>
+\> [Gateway](https://github.com/S6-AdvancedSoftware-Individual/cockatoo-gateway) </br>
+\> [Infrastructure & load test](https://github.com/S6-AdvancedSoftware-Individual/cockatoo-infrastructure)
 
 _Technologies used;_
 
@@ -118,9 +118,9 @@ _Technologies used;_
 
 In my current semester, my 7th, I have been working on learning more, in depth about various design patterns. This semester has mixed goals, it offers me an opportunity to learn more about technical side of these patterns. As well as allowing me to create a well-documented open-source project with no business incentive. I am a strong believer of making knowledge as free and accessible as possible. This site has just that, it is fully open-source, accessible, available and open about it's intentions. It is created to help others learn the design patterns in a structured and approachable manner. It has a requirement to not have any commercial benefits. This includes cookies, advertisements, tracking of any sorts, any sort of paid hosting or paywalls for that manner.
 
-- [Production environment](https://s7-openlearning-individual.github.io/DesignPatternPedia/)
-- [GitHub Organization](https://github.com/orgs/S7-OpenLearning-Individual/repositories)
-- [Wiki Repository](https://github.com/S7-OpenLearning-Individual/DesignPatternPedia)
+\> [Production environment](https://s7-openlearning-individual.github.io/DesignPatternPedia/) </br>
+\> [GitHub Organization](https://github.com/orgs/S7-OpenLearning-Individual/repositories) </br>
+\> [Wiki Repository](https://github.com/S7-OpenLearning-Individual/DesignPatternPedia)
 
 _Technologies used;_
 
@@ -151,8 +151,8 @@ I had just finished my semester of [Smart Mobile](#s4---smart-mobile) and full o
 
 This has been put on the back burner due to some priorities with my work, searching for an internship and Fontys related projects.
 
-- [Repository](https://github.com/theartcher/freazy)
-- [Wiki on Notion](https://pastoral-almond-4c5.notion.site/Freazy-225b5f8e336c80749c51e10b660d5af5)
+\> [Repository](https://github.com/theartcher/freazy) </br>
+\> [Wiki on Notion](https://pastoral-almond-4c5.notion.site/Freazy-225b5f8e336c80749c51e10b660d5af5)
 
 _Technologies used;_
 
