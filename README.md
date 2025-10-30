@@ -56,7 +56,9 @@ Smart mobile was divided into 2 very separate tracks, a duo project and a group 
 
 For the group project, [we won a 1500 euro price for 'Best Concept Smart Mobile'](https://www.linkedin.com/posts/joris-brugman-1186131b9_dear-network-i-am-extremely-proud-to-announce-activity-7231270908823310336-LWme?utm_source=share&utm_medium=member_desktop&rcm=ACoAADLQfeQB00PkaEW2bi0fsZjwH-H8SqR0iFE) regarding the topic 'Sensory Overload', also known as overstimulation. During this project I worked with talented designers and software engineers alike to create a mobile VR experience. We recorded our own 360 degree camera footage, which we then implemented into our own hand-made cardboard VR headsets. The app helped individuals suffering from sensory overload to give a look into their life to their loved ones. A user can select an experience, the 'overloadness' they want to experience and then just jump right in. With various sounds and sights we try to actively overstimulate a person' perception. We showcased this to one of our stakeholders, an older man who, due to major brain trauma suffers from regular, excessive overstimulation. With our product we were able to help him explain to his grandchildren better why he sometimes could not interact with them, without being sounding harsh or distant.
 
-\> [Repository](https://github.com/StudioKrom-SmartMobile-2024/frontend)
+\> [LinkedIn post discussing the project](https://www.linkedin.com/posts/joris-brugman-1186131b9_dear-network-i-am-extremely-proud-to-announce-activity-7231270908823310336-LWme?utm_source=share&utm_medium=member_desktop&rcm=ACoAADLQfeQB00PkaEW2bi0fsZjwH-H8SqR0iFE) </br>
+\> [Repository](https://github.com/StudioKrom-SmartMobile-2024/frontend) </br>
+\> [Interview with Studio Krom](https://www.linkedin.com/feed/update/urn:li:activity:7231578870137704448/)
 
 _Technologies used;_
 
