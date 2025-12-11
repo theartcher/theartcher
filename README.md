@@ -19,11 +19,11 @@ Hello and welcome to my GitHub profile! Here I keep all my cherished projects, b
 
 ## Fontys ICT projects
 
-Each of my Fontys projects has been separated into a (public) organization as to keep my profile clean. You can find working links to each repository in their respective section. If a semester is not visible, that is likely to a signed NDA or a lack of a public Git (-> Fontys local Gitlab).
+Each of my Fontys projects has been separated into a (public) organization as to keep my personal profile clean. You can find working links to each repository in their respective section. If a semester is not visible, that is likely to a signed NDA or a lack of a public Git (See -> Fontys private Gitlab).
 
 ### S1 - Trash4Cash
 
-Ah my first project ever at Fontys ICT. We worked on a sustainability, we tried to achieve this by focussing on [SDGs](https://sdgs.un.org/goals), which are essentially 17 goals for the most optimal, sustainable future of humankind.
+Ah my first project ever at Fontys ICT. We worked on sustainability, we tried to achieve this by focussing on [SDGs](https://sdgs.un.org/goals), which are essentially 17 goals for the most optimal, sustainable future of humankind.
 
 \> [Repository](https://github.com/theartcher/Trash4Cash)
 
@@ -35,7 +35,7 @@ _Technologies used;_
 
 ### S3 - SpottedCharts
 
-Semester 3 was my first real experience with Docker, writing actual documentation and CI/CD via GitHub Actions. The application involved reading some user data from Spotify, authenticated through an OAuth system. The user could request their latest artists, songs, and genres. These were then stored and this allowed the user to plot changes over time using our app.
+Semester 3 was my first real experience with Docker, writing proper documentation and CI/CD via GitHub Actions. The application involved reading user statistics from Spotify via their API, authenticated through an OAuth (Auth0) system. The user could request their latest artists, songs, and genres. These were then stored in the database as a snapshot, which then allowed the user to plot ranking changes over time using our application.
 
 \> [Repository](https://github.com/S3-Software-IP/monorepo)
 
@@ -48,13 +48,13 @@ _Technologies used;_
 
 ### S4 - Smart Mobile
 
-Smart mobile was divided into 2 very separate tracks, a duo project and a group project. The duo project focused on creating 2 apps, both in Flutter. Both focussed primarily on the UX/UI part, since my group mate and I had already 'mastered' the technical side of things. More details regarding these two projects you can find in their respective repositories.
+Smart mobile was divided into 2 distinct paths, a duo project and a group project. The duo project focused on creating 2 apps, both in Flutter. Both focussed primarily on the UX/UI part, since my group mate and I had already 'mastered' the technical side of things. More details regarding these two projects you can find in their respective repositories.
 
 \> [Duo cases repository README](https://github.com/S4-Smart-mobile/S4-Smart-Mobile?tab=readme-ov-file) </br>
 \> ['Cultural Exchange' case](https://github.com/S4-Smart-mobile/S4-Smart-Mobile/tree/main/Cultural%20Exchange%20App) </br>
 \> ['Mood predictor' case](https://github.com/S4-Smart-mobile/S4-Smart-Mobile/tree/main/mood_predictor_app)
 
-For the group project, [we won a 1500 euro price for 'Best Concept Smart Mobile'](https://www.linkedin.com/posts/joris-brugman-1186131b9_dear-network-i-am-extremely-proud-to-announce-activity-7231270908823310336-LWme?utm_source=share&utm_medium=member_desktop&rcm=ACoAADLQfeQB00PkaEW2bi0fsZjwH-H8SqR0iFE) regarding the topic 'Sensory Overload', also known as overstimulation. During this project I worked with talented designers and software engineers alike to create a mobile VR experience. We recorded our own 360 degree camera footage, which we then implemented into our own hand-made cardboard VR headsets. The app helped individuals suffering from sensory overload to give a look into their life to their loved ones. A user can select an experience, the 'overloadness' they want to experience and then just jump right in. With various sounds and sights we try to actively overstimulate a person' perception. We showcased this to one of our stakeholders, an older man who, due to major brain trauma suffers from regular, excessive overstimulation. With our product we were able to help him explain to his grandchildren better why he sometimes could not interact with them, without being sounding harsh or distant.
+For the group project, [we won a 1500 euro price for 'Best Concept Smart Mobile'](https://www.linkedin.com/posts/joris-brugman-1186131b9_dear-network-i-am-extremely-proud-to-announce-activity-7231270908823310336-LWme?utm_source=share&utm_medium=member_desktop&rcm=ACoAADLQfeQB00PkaEW2bi0fsZjwH-H8SqR0iFE) regarding the topic 'Sensory Overload', better known as overstimulation. During this project I worked with talented designers and software engineers alike to create a mobile VR experience. We recorded our own 360 degree camera footage, which we then implemented into our own custom-made cardboard VR headsets. The app helped individuals suffering from sensory overload to offer a glimpse into their life to their loved ones. A user can select an experience, the amount of overload they want to experience and then just jump right in. With various sounds and sights we try to actively overstimulate a person' perception. We showcased this to one of our stakeholders, an older man who, due to major brain trauma suffers from regular, excessive overstimulation. With our product we were able to help him explain to his grandchildren why he sometimes could not interact with them at times, without sounding harsh or acting distant.
 
 \> [LinkedIn post discussing the project](https://www.linkedin.com/posts/joris-brugman-1186131b9_dear-network-i-am-extremely-proud-to-announce-activity-7231270908823310336-LWme?utm_source=share&utm_medium=member_desktop&rcm=ACoAADLQfeQB00PkaEW2bi0fsZjwH-H8SqR0iFE) </br>
 \> [Repository](https://github.com/StudioKrom-SmartMobile-2024/frontend) </br>
@@ -67,11 +67,11 @@ _Technologies used;_
 
 ### S5 - Internship
 
-During my internship I did exploratory research into large-scale data orchestration and transformation tooling for [ISPnext](https://www.ispnext.com/en/). As they can better explain themselves:
+During my internship I did exploratory research into large-scale data orchestration and transformation tooling for [ISPnext](https://www.ispnext.com/en/). ISPNext can best explain themselves the services they offer:
 
 > ISPnext increases the financial impact of more than 450 organizations with AI-driven solutions for Business Spend Management (BSM). A single platform for cost savings, contract management, strong supplier relationships, automated invoice processing and reduced risks. The result: informed decisions, room for growth and higher profitability.
 
-For this they needed an updated methodology to be able to handle large scale SQL-based traffic on their various complex database systems. I looked into Dagster, Apache Airflow, Prefect and DBT. Creating a large, comprehensive guide on their technical capacities with demos to prove it's business worth and stake my case.
+To continue to provide this service they needed an updated methodology to be able to handle large scale SQL-based traffic on their various complex database systems. I looked into Dagster, Apache Airflow, Prefect and DBT. Creating a large, comprehensive guide on their technical capacities with demos to prove it's business worth and stake my case.
 
 \> [LinkedIn post](https://www.linkedin.com/posts/joris-brugman-1186131b9_dear-network-id-like-to-take-a-moment-activity-7288888721712513024-Xoh3?utm_source=share&utm_medium=member_desktop&rcm=ACoAADLQfeQB00PkaEW2bi0fsZjwH-H8SqR0iFE)
 
@@ -86,7 +86,7 @@ _Technologies used;_
 
 ### S6 - Advanced Software
 
-In my 6th semester I focussed on creating a complex, distributed software architectural system. I created 'Cockatoo', a Twitter/X clone. This offered me the opportunity to go into more technical topics such as creating a distributed system using various tooling. I started off with Docker, moved to Minikube, which then continued onward to Azure Kubernetes Services. In Azure I worked in registering my own application properly. This included creating a message bus, working with Azure Functions and getting all of that working in a full CI/CD using Github Actions. Code quality was validated using K6 for load tests, SonarCloud for static code analysis and Git Guardian for any outstanding Git related security issues. The distributed system is seperated into 5 repositories.
+In my 6th semester I focussed on creating a complex, distributed software architectural system. I created 'Cockatoo', an X (rip Twitter) clone. This offered me the opportunity to go into more technical topics such as creating a distributed system using various tools. I started off simple with Docker, moved to Minikube, which then continued onward to Azure Kubernetes Services. In Azure I worked on registering my own application properly. This included creating a message bus, working with Azure Functions and getting all of that working in a full CI/CD using Github Actions. Code quality was validated using K6 for load tests, SonarCloud for static code analysis and Git Guardian for any outstanding Git related security issues. The distributed system is seperated into 5 repositories.
 
 \> [Semester organization](https://github.com/orgs/S6-AdvancedSoftware-Individual/repositories) </br>
 \> [Posts service](https://github.com/S6-AdvancedSoftware-Individual/post-service) </br>
@@ -105,7 +105,7 @@ _Technologies used;_
 - Vue.js
 - Ocelot gateways
 
-For the group project, I worked on an algorithm which allows a user to charge their electric vehicles in a smart, sustainable manner. The project allowed for electricity trading, complex charging schedules for both commercial as well as personal vehicular management. In order to make this all work we had to integrate various external APis such as SolarEdge, Frank Energie, TOMP, WallBox and so forth. The complex nature of data ingesting and poorly documented web APIs proved a difficult challenge to tackle.
+For the group project, I worked on an algorithm which allows a user to charge their electric vehicles in a smart, sustainable manner. The project allowed for electricity trading, complex charging schedules for both commercial as well as personal vehicular management. In order to make this all work we had to integrate various external APIs such as SolarEdge, Frank Energie, TOMP, WallBox and so forth. The complex nature of data ingestion and poorly documented web APIs proved a difficult challenge to tackle.
 
 Sadly there is no repository available for this project due to contractual obligations.
 
@@ -116,7 +116,7 @@ _Technologies used;_
 
 ### S7 - DesignPatternPedia
 
-In my current semester, my 7th, I have been working on learning more, in depth about various design patterns. This semester has mixed goals, it offers me an opportunity to learn more about technical side of these patterns. As well as allowing me to create a well-documented open-source project with no business incentive. I am a strong believer of making knowledge as free and accessible as possible. This site has just that, it is fully open-source, accessible, available and open about it's intentions. It is created to help others learn the design patterns in a structured and approachable manner. It has a requirement to not have any commercial benefits. This includes cookies, advertisements, tracking of any sorts, any sort of paid hosting or paywalls for that manner.
+In my current semester I have been working on learning more about various design patterns. This semester has mixed goals, it offers me an opportunity to learn more about technical side of these patterns. As well as allowing me to create a well-documented, and open-source project with no business incentive. I am a strong believer of keeping knowledge as free and accessible as possible. This site is a manifestation of those principles. It is fully open-source, accessible, available, and open about it's intentions and principles. It is created to help others learn the design patterns in a structured and approachable manner. It has a requirement to not have any commercial benefits and commit to self to privacy. This includes cookies, advertisements, tracking of any sorts, paid hosting or paywalls for that manner.
 
 \> [Production environment](https://s7-openlearning-individual.github.io/DesignPatternPedia/) </br>
 \> [GitHub Organization](https://github.com/orgs/S7-OpenLearning-Individual/repositories) </br>
@@ -129,14 +129,14 @@ _Technologies used;_
 
 ## Hobby projects
 
-In this section I will go over some of my person projects. This'll include some background context, my inspiration for getting started, goals and perhaps even a reason why it's on the back burner.
+In this section I will go over some of my personal projects. This'll include some background context, my inspiration for getting started, goals and perhaps even a reason why it's on the back burner.
 
 ### Freazy
 
-Freazy was originally a small "I'm gonna make this real fast" project. But it grew out to something larger quite fast. My mother-in-law has 3 freezers (don't ask me why), and she needed help managing them. However the app she was using for this had quite a few problems associated with it, to name a few;
+Freazy was originally a small "I'm gonna make this real fast" project. But it grew out to something large quite fast. My mother-in-law has 3 freezers (don't ask me why), and she needed help managing them. However the app she was using for this had quite a few problems associated with it, to name a few;
 
-- Outdated Android, could not be installed on her newer, modern phone.
-- Really poor UI
+- Outdated Android version, could not be installed on her newer, modern phone.
+- Really poor UI and UX.
 - Horrible customization experience, hard to change languages, preferred time formats etc.
 
 I had just finished my semester of [Smart Mobile](#s4---smart-mobile) and full of confidence I started working on creating Freazy. The new and improved app worked with a modern framework called [Flutter](https://flutter.dev/). Some of the noteworthy mentions in the V1 release;
@@ -160,7 +160,7 @@ _Technologies used;_
 
 ### ConnectMi
 
-The ConnectMi mobile app went through various iterations in it's short life-span. I started on this project to create an alternative to the [esp8266_milight_hub](https://github.com/sidoh/esp8266_milight_hub) web interface, as it [looked quite bad](https://user-images.githubusercontent.com/589893/61682228-a8151700-acc5-11e9-8b86-1e21efa6cdbe.png) prior to it's 1.13.0 release. This project mainly focussed on
+The ConnectMi mobile app went through various iterations in it's short life-span. I started on this project to create an alternative to the [esp8266_milight_hub](https://github.com/sidoh/esp8266_milight_hub)'s web interface, as it [looked quite bad](https://user-images.githubusercontent.com/589893/61682228-a8151700-acc5-11e9-8b86-1e21efa6cdbe.png) prior to it's 1.13.0 release. This project mainly focussed on
 
 - Maintaining state between devices with questionable internet connectivity.
 - Designing a mobile app ([v1](https://github.com/theartcher/ConnectMi/blob/main/ConnectMi-v1.pdf) & [v2](https://github.com/theartcher/ConnectMi/blob/main/ConnectMi-v2.pdf)).
@@ -182,7 +182,7 @@ _Technologies used;_
 
 ### FriendsINC.js
 
-My absolute first project I ever put on GitHub, it was my introduction to JavaScript, git, web APIs and, programming in general. There was absolutely plenty of room for improvement, but it was such a fun project to create at the time. To be able to sit behind my desk, type something and then make it WORK was fantastic and incredibly rewarding. I hosted it on a server via Cubes.host which had a Postgres server included in the plan. Although small I learnt a lot.
+My absolute first project I ever put on GitHub, it was my introduction to JavaScript, git, web APIs, and programming in general. There was absolutely plenty of room for improvement, but it was such a fun project to create at the time. To be able to sit behind my desk, type something and then make it WORK was fantastic and incredibly rewarding. I hosted it on a server via Cubes.host which had a Postgres server included in the plan. Although the project was quite small I learnt a lot.
 
 \> [Repository](https://github.com/theartcher/Friends.INC/blob/main/FriendsINC.js)
 
@@ -193,7 +193,7 @@ _Technologies used;_
 
 ### Helldivers 2 theme on the N3DS
 
-Although not a very technical project, it is a fun one regardless. It is comically well documented for how small the project actually is. I had (hadn't\* in case Nintendo is reading this) hacked my 3DS to play some old, nostalgic games on it again, and I wanted a nice theme on it. I got into Helldivers 2 semi-recently and was instantly hooked, thus I wanted to make my own theme for it.
+Although not a very technical project, it is a fun one regardless. It is comically well documented for how small the project actually is. I had (hadn't\* in case Nintendo is reading this) cracked my 3DS to play some old, nostalgic games on it again, and I wanted a nice theme on it. I got into Helldivers 2 semi-recently and was instantly hooked, thus I wanted to make my own theme for it.
 
 \> [Repository](https://github.com/theartcher/hd2-3ds-theme)
 
