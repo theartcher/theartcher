@@ -200,3 +200,6 @@ Although not a very technical project, it is a fun one regardless. It is comical
 ## Get in touch
 
 Do you look what you've seen on my profile so far, have any questions regarding my repositories or would just like a quick chat. I recommend you to email me [joris@toqira.nl](mailto:joris@toqira.nl), from there I'd be more than happy to share my phone number with you as well. You can also find me on [LinkedIn](https://www.linkedin.com/in/joris-brugman-1186131b9/).
+
+Hello!
+ - SenorBlub
